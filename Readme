@@ -1,0 +1,25 @@
+-> Data science is a multi-desciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data
+-> Data analysis is a process of inspecting , cleaning, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making
+-> Data visualization is the graphical representation of data. It involves producing images that communicate relationships among the represented data to viewers of the images
+-> Data summarization is a simple term for short conclusion of a big theory or a praragraph. This is something where you write the code and in the end, you decalre the final result in the form of summarizing data. It has great importance in mining.
+
+-> What is data? Ans: The quantities, characters or symbols in which operations are performed by a computer, which may be sorted and transmitted in the form of electrical signals and recorded in magnetic, optical or mechanical recording media.
+-> What is big data? Ans: Big data is a term to describe a collection of data that is huge in size and yet growing exponentially with time. In short such data is so large and complex that none of traditional management tools are able to store it or process it efficiently.
+ Ex: New Stock Exchange generates about one tera bytes of new trade data per day.
+     Social Media: facebook generates 500+ tera bytes of data in a day 
+     A single Jet engine can generate 10 tera bytes of data in 30 minutes of flight time
+ web link for live flights status: flightradar24.com
+
+-> Types of Big Data
+   1.Structured
+   2.Unstructured
+   3.Semi-structured
+-> Structured: Any data that can be stored, accessed and processed in the form of fixed format is termed as structured data.
+ Ex: Employee table in database
+-> Unstructured data: Any data with unknown form or the structure is classified as unstructured data. In addition to the size being huge, un-structured data poses multiple challenges in terms of its processing for deriving value out of it.
+ E: Google search engine
+-> Semi-structured: Semi-structured data can contain both the forms of data. We can see semi-structured data as structured in form but it is actually not defined with e.g. a table definition in relational DBMS.
+ Ex: xml, html etc
+
+ Big data
+  
