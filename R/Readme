@@ -1,0 +1,39 @@
+-> R programming is used for statistical analysis, graphical representation, data summariation and for business reports
+-> R programming is used for developing machine learning models
+-> R programming is used for descriptive statistics, statistical inference, testing of hypothesis, theory of probability, probability distributions and time series forecasting
+
+why R with respect to other tools in the market?
+ -> Aprt from being a best statistical language, it can also be used as a programming language for data analytics
+ -> Is also one of the most popular tools used for data visualization.
+ -> simple and easy to learn read & write
+ -> free and open source
+
+Note: R programming is may not be helpful for developing deep learning models
+	  R works very well when your data size is less than or equal to one million data series
+-> R is a programming language and a software environment for data analytics
+Note: R was created by Ross Thaks and Robert Genteman @NZ
+-> R allows integration with all the procedure languages like C, C++, .net, python and fotran langauges
+-> R made its first appearance in 1993
+
+Features of R:
+-> R is a well developed,Simple and effective programming language which includes conditions, loops and user defined recursive functions.
+-> R has an effective data handling and storage facility
+-> R comes with 100 sample datasets with its library
+-> R provides a suite of operators for calculations on arrays, lists, vectors and matrices
+
+#Datatypes: 
+Vectors,Lists,Matrices,Arrays,Factors/Data Frames
+
+# Readng external file system into R system
+Reading and writing csv/xml/json/html file into R environment
+
+# R-Data Visualization
+pie-chart, bar chart, boxplots, histogram, scatterplots, Line Graphs
+
+# what can we do on data -> https://www.statmethods.net/management/index.html
+sorting, merging, aggregating, reshaping, subsetting, data type conversion
+
+
+
+
+

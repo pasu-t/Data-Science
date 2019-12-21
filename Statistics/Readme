@@ -1,0 +1,15 @@
+Statistics is form of mathematical analysis that uses quantified models, representations and synopses for a given experimental data or real-life studies.
+Statistics studies methodologies to gather , review, analyze and draw conclusions from data
+
+Basic: Univariate analysis -> summarize and visualize data
+Intermediate: Statistical inference -> Bivariate analysis -> Relationship
+Advanced: Multivariate analysis -> ML/DL
+
+Descriptive statistics: Frequencies & percentages
+						Means & Standard deviations
+
+Inferential statistics: Correlation
+						T-tests
+						Chi-square
+						Logistic regression
+

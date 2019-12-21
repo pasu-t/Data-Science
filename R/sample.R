@@ -1,0 +1,16 @@
+library(datasets)
+data()
+fix(Titanic)
+print(mtcars)
+sample<-data.frame(mtcars)
+fix(sample)
+View(sample)
+ncol(sample)
+nrow(sample)
+head(sample,3)
+tail(sample,3)
+str(sample)
+maxdisp = max(sample$disp)
+maxdisp
+mindisp = min(sample$disp)
+mindisp
