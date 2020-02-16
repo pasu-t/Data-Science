@@ -1,0 +1,3 @@
+-> Central object: DataFrame
+-> Much like R
+-> Operations: filtering by row/col, apply, join (like sql)

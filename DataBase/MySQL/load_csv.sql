@@ -1,0 +1,19 @@
+-- CREATE TABLE earthquake(
+-- 	earthquake_id int,
+-- 	occurred_on DATE,
+-- 	latitude numeric,
+-- 	longitude numeric,
+-- 	depth_e numeric,
+-- 	magnitude numeric,
+-- 	calculation_method varchar(255),
+-- 	network_id varchar(255),
+-- 	place varchar(255),
+-- 	cause varchar(255))
+-- DROP TABLE earthquake; 
+-- LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/earthquake.csv'
+-- INTO TABLE earthquake
+-- FIELDS TERMINATED BY ','
+-- LINES TERMINATED BY '\n'
+-- IGNORE 1 ROWS;
+-- SHOW VARIABLES LIKE "secure_file_priv";
+SELECT * FROM earthquake;  

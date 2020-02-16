@@ -1,0 +1,17 @@
+count
+sum
+avg
+
+Measures Central dependencies:
+    mean
+    medium
+    mode
+
+Measures of dispersion:
+    Var
+    STD
+    MAX
+    MIN
+    RANGE
+    Coefficient of Variation
+

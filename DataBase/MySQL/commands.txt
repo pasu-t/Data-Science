@@ -1,0 +1,35 @@
+Select
+Select Distinct
+Where
+And or Not
+Order By
+Insert into
+Null Values
+Update
+Delete
+Select Top
+Min and Max
+Count, Avg, Sum
+Like
+Wildcards
+In
+Between
+Group By
+Having
+Exists
+Any
+All
+Select into
+Insert into Select
+Case
+Null Functions
+Comments
+
+Aliases
+Joins
+Inner Join
+Left Join
+Right Join
+Full Join
+Self Join
+

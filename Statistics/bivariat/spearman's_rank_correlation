@@ -1,0 +1,5 @@
+Spearman's Rank Correlation
+
+when data is not normally distributed or when the presences if outliers gives a distorted picture of the association between two random variables, the Spearman's rank correlation is a non-parametric test that can be used to evaluate relationships instead of the Pearson's correlation coefficient.
+
+The Pearson correlation evaluates the linear relationship between two continuous variables. The Spearman correlation coefficient is based on the ranked values for each variable rather than the raw data. Spearman correlation is often used to evaluate relationships involving ordinal(continuous) variables.

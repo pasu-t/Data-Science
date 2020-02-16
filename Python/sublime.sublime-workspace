@@ -1,0 +1,583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dia",
+				"diag\tmodule"
+			],
+			[
+				"ran",
+				"range\tstatement"
+			],
+			[
+				"lo",
+				"log\tstatement"
+			],
+			[
+				"res",
+				"results_url\tstatement"
+			],
+			[
+				"get",
+				"get_delay3\tfunction"
+			],
+			[
+				"as",
+				"asession\tstatement"
+			],
+			[
+				"li",
+				"link\tstatement"
+			],
+			[
+				"csv",
+				"csv_file\tstatement"
+			],
+			[
+				"cs",
+				"csv_writer\tstatement"
+			],
+			[
+				"y",
+				"yt_link"
+			],
+			[
+				"ar",
+				"article\tstatement"
+			],
+			[
+				"vid",
+				"vid_id\tstatement"
+			],
+			[
+				"v",
+				"vid_src\tstatement"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"Ht",
+				"HTMLSession\tclass"
+			],
+			[
+				"H",
+				"HTMLSession\tclass"
+			],
+			[
+				"re",
+				"requests_html\tmodule"
+			],
+			[
+				"su",
+				"summary\tstatement"
+			],
+			[
+				"art",
+				"article\tstatement"
+			],
+			[
+				"artic",
+				"article"
+			],
+			[
+				"ht",
+				"html\tstatement"
+			],
+			[
+				"html",
+				"html\tparam"
+			],
+			[
+				"h",
+				"HTML\tclass"
+			],
+			[
+				"per",
+				"perf_counter\tfunction"
+			],
+			[
+				"mem",
+				"memory_usage\tfunction"
+			],
+			[
+				"me",
+				"memory_usage_resource"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"heig",
+				"height\t🕮"
+			],
+			[
+				"il",
+				"inline-flex\tdisplay"
+			],
+			[
+				"lin",
+				"inline-table\tdisplay"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"backgroundc",
+				"background-color\tproperty"
+			],
+			[
+				"task",
+				"tasks_list"
+			],
+			[
+				"date",
+				"date_created"
+			],
+			[
+				"log",
+				"logout_user"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"Use",
+				"UserMixin"
+			],
+			[
+				"valida",
+				"validationError"
+			],
+			[
+				"ha",
+				"hashed_password"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"E",
+				"EqualTo"
+			],
+			[
+				"Pa",
+				"PasswordField"
+			],
+			[
+				"w",
+				"wtforms"
+			],
+			[
+				"ab",
+				"about"
+			],
+			[
+				"__",
+				"__name__"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pandas/Readme.txt",
+			"settings":
+			{
+				"buffer_size": 103,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "numpy/Readme.txt",
+			"settings":
+			{
+				"buffer_size": 382,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "numpy/lisy_vs_array.py",
+			"settings":
+			{
+				"buffer_size": 148,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/workspace/Data-Science/Python/sublime.sublime-project",
+		"/C/Users/pasup/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/workspace/Data-Science/Python/pandas/Readme.txt",
+		"/C/workspace/myPython/python_modules/web_scraping/GetLinksFromHtml.py",
+		"/C/workspace/myPython/python_modules/web_scraping/async_req_resp.py",
+		"/C/workspace/myPython/python_modules/web_scraping/sync_req_resp.py",
+		"/C/workspace/myPython/python_modules/web_scraping/async_req_resp",
+		"/C/workspace/myPython/python_modules/web_scraping/Ex1.py",
+		"/C/workspace/myPython/python_modules/web_scraping/corey_scrape.csv",
+		"/C/workspace/myPython/python_modules/web_scraping/sample.py",
+		"/C/workspace/myPython/python_modules/web_scraping/sample.html",
+		"/C/workspace/Data-Science/R/3d_pie_chart.jpg",
+		"/C/workspace/Data-Science/Data_visualization_process_v1.png",
+		"/C/workspace/robot_parallel_exec/pabot_results/Test/robot_stdout.out",
+		"/C/workspace/robot_parallel_exec/pabot_results/Test/robot_stderr.out",
+		"/C/workspace/robot_parallel_exec/sample.robot",
+		"/C/workspace/robot_parallel_exec/values.dat",
+		"/C/workspace/Data-Science/R/sample.xlsx",
+		"/C/workspace/Data-Science/R/sample.R",
+		"/C/workspace/Data-Science/R/datatypes.R",
+		"/C/workspace/myPython/myProjects/turk_portal/adtran_turk/routes.py",
+		"/C/workspace/myPython/myProjects/turk_portal/adtran_turk/static/main.css",
+		"/C/workspace/myPython/myProjects/turk_portal/adtran_turk/templates/table.html",
+		"/C/workspace/myPython/myProjects/turk_portal/run.py",
+		"/C/workspace/myPython/myProjects/turk_portal/adtran_turk/templates/layout.html",
+		"/C/workspace/myPython/myProjects/turk_portal/adtran_turk/templates/home.html",
+		"/C/workspace/myPython/myProjects/turk_portal/temp.py",
+		"/C/workspace/myPython/myProjects/turk_portal/adtran_turk/templates/main.html",
+		"/C/workspace/myPython/myprojects/Flask_Blog/flaskblog/routes.py",
+		"/C/workspace/myPython/myProjects/flask_blog/flaskblog/templates/account.html",
+		"/C/workspace/myPython/myprojects/Flask_Blog/flaskblog/templates/layout.html",
+		"/C/workspace/myPython/myprojects/Flask_Blog/flaskblog/__init__.py",
+		"/C/workspace/myPython/myprojects/Flask_Blog/flaskblog/models.py",
+		"/C/workspace/myPython/myprojects/Flask_Blog/flaskblog/forms.py",
+		"/C/workspace/myPython/myprojects/Flask_Blog/run.py",
+		"/C/workspace/myPython/myprojects/Flask_Blog/flaskblog.py",
+		"/C/workspace/myPython/myprojects/Flask_Blog/templates/layout.html",
+		"/C/workspace/myPython/myprojects/Flask_Blog/forms.py",
+		"/C/workspace/myPython/myprojects/Flask_Blog/flaskblog2.py",
+		"/C/workspace/myPython/myprojects/Flask_Blog/templates/register.html",
+		"/C/workspace/myPython/myprojects/Flask_Blog/templates/login.html",
+		"/C/workspace/myPython/myprojects/Flask_Blog/static/main.css",
+		"/C/workspace/myPython/myprojects/Flask_Blog/templates/home.html",
+		"/C/workspace/myPython/myprojects/Flask_Blog/templates/about.html",
+		"/C/Users/pasup/Documents/professional_docs/Resume.doc.docx",
+		"/C/Users/pasup/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/pasup/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pandas/Readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "numpy/Readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "numpy/lisy_vs_array.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

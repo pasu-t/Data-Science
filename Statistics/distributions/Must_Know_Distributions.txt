@@ -1,0 +1,30 @@
+#Probability
+Probability is a measure of the likelihood that an event will occur in a Random Experiment.
+
+#Distribution
+In statistics when we use the term Distribution it usually means Probability distribution.
+
+A Distribution is a function that shows the possible values for a variable and how often they occur.
+
+Or A Probability Distribution is a mathematical function that can be thought of as providing the probabilities of occurrence of different possible outcomes in an experiment.
+
+Statistical inference is the process of using data analysis to draw conclusions of properties of an underlying probability distribution.
+
+Types of distribution:
+Descrete
+Continuous
+Probability
+
+
+Descrete: 
+Bernoulli’s Distribution
+Binomial Distribution
+Uniform Distribution
+Poisson Distribution
+
+Do Not misunderstand that the Distribution is a graph. Distribution is defined by the underlying probability and not the graph.
+
+Continuous:
+Normal distribution
+Exponential distribution
+
