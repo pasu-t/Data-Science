@@ -10,11 +10,12 @@ Or A Probability Distribution is a mathematical function that can be thought of 
 
 Statistical inference is the process of using data analysis to draw conclusions of properties of an underlying probability distribution.
 
+Do Not misunderstand that the Distribution is a graph. Distribution is defined by the underlying probability and not the graph.
+
 Types of distribution:
 Descrete
 Continuous
 Probability
-
 
 Descrete: 
 Bernoulli’s Distribution
@@ -22,9 +23,10 @@ Binomial Distribution
 Uniform Distribution
 Poisson Distribution
 
-Do Not misunderstand that the Distribution is a graph. Distribution is defined by the underlying probability and not the graph.
-
 Continuous:
 Normal distribution
 Exponential distribution
 
+Special cases:
+Gibbs
+Maxwell etc

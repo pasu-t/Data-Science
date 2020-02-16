@@ -1,0 +1,12 @@
+Binomial distribution is used when there are exactly two outcomes of a trial. These outcomes are labeled as “Success” and “Failure”.
+
+Here the probability of both the outcomes is the same for all the trials.
+
+Each trial is independent since the outcome of the previous toss doesn’t determine or affect the outcome of the current toss. An experiment with only two possible outcomes repeated n number of times is called binomial. The parameters of a binomial distribution are n and p where n is the total number of trials and p is the probability of success in each trial.
+
+
+Bernoulli Distribution is a special case of Binomial Distribution with a single trial.
+
+The Bernoulli distribution is a discrete distribution having two possible outcomes that is, 0 and 1, where 
+n = 1  (usually called a “success”) occurs with probability p and 
+n = 0 (usually called a “failure”) occurs with probability q = 1–p, where 0 < p < 1. 

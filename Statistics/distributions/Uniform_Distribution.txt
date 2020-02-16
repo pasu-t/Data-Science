@@ -1,0 +1,5 @@
+A uniform distribution is a distribution that has a constant probability. 
+
+EXAMPLE:  
+    If we roll a die(numbered from 1 to 6), then the probability of getting 1 is one out of six i.e., 1/6
+    Similarly, the probability of getting 2, 3, 4, 5 and 6 also is ⅙. There is an equal chance of getting each of the 6 outcomes.
